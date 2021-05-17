@@ -1,0 +1,19 @@
+{
+  "name": "legion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/node-pre-gyp": "^0.3.2",
+    "discord.js": "^12.5.3",
+    "dotenv": "^8.2.0",
+    "ffmpeg-static": "^4.3.0",
+    "opusscript": "^0.0.8",
+    "wokcommands": "^1.3.5"
+  }
+}
